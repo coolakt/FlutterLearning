@@ -363,6 +363,7 @@ void main(){
   print(output);
 }*/
 
+/*
 void gfg1(int g1, [g2]){
   print('g1 is $g1');
   print('g2 is $g2');
@@ -387,4 +388,5 @@ void main(){
   print('Calling the function with default parameter:');
   gfg3(01);
 }
+*/
 
